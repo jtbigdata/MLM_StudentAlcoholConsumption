@@ -5,10 +5,10 @@ Bienvenido al repositorio del proyecto sobre modelos de machine learning en una 
 
 ## Descripción
 Este repositorio contiene un conjunto de scripts donde solamente se han creado un modelos de Regresión Logistica, SVM, KNN y GBM.
-[Data Set](https://github.com/jtbigdata/MLM_StudentAlcoholConsumption/blob/main/MLM_EscuelaSecundaria.ipynb).
+[Data Set](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) .
 
 ## Contenido del Repositorio
-- [Data Notebook](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption): Cuaderno Jupyter con los modelos de Machine Learning.
+- [Data Notebook](https://github.com/jtbigdata/MLM_StudentAlcoholConsumption/blob/main/MLM_EscuelaSecundaria.ipynb): Cuaderno Jupyter con los modelos de Machine Learning.
 <!-- Agrega más elementos según sea necesario -->
 
 
